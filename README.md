@@ -2,6 +2,10 @@
 - Least modifications are made on these trackers to benchmarking their runing speed (on PyTorch).
 - :alien: Some trackers here may fall behind the original repo. (I finished this work before ~2023.09)
 - All codes are tested on Python 3.8 and PyTorch 1.12.0. You may install other necessary packages by yourself.
+- Clone this repo with modded trackers as submodules:
+    ```
+    git clone https://github.com/TsingWei/VOT_Tracker_Collection.git --recursive
+    ```
 
 ## ARTrack
 - Config of 384x384 added.
