@@ -1,0 +1,36 @@
+[submodule "ARTrack"]
+	path = ARTrack
+	url = https://github.com/TsingWei/ARTrack
+[submodule "ettrack"]
+	path = ettrack
+	url = https://github.com/TsingWei/ettrack/
+[submodule "FEARTracker"]
+	path = FEARTracker
+	url = https://github.com/TsingWei/FEARTracker/
+[submodule "GRM"]
+	path = GRM
+	url = https://github.com/TsingWei/GRM
+[submodule "HCAT"]
+	path = HCAT
+	url = https://github.com/TsingWei/HCAT
+[submodule "HiFT"]
+	path = HiFT
+	url = https://github.com/TsingWei/HiFT
+[submodule "HiT"]
+	path = HiT
+	url = https://github.com/TsingWei/HiT
+[submodule "LightTrack"]
+	path = LightTrack
+	url = https://github.com/TsingWei/LightTrack
+[submodule "SimTrack"]
+	path = SimTrack
+	url = https://github.com/TsingWei/SimTrack
+[submodule "TransT"]
+	path = TransT
+	url = https://github.com/TsingWei/TransT
+[submodule "TransformerTrack"]
+	path = TransformerTrack
+	url = https://github.com/TsingWei/TransformerTrack/
+[submodule "pytracking"]
+	path = pytracking
+	url = https://github.com/TsingWei/pytracking/
